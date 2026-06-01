@@ -5,3 +5,9 @@ finance_tracker/           ← Project 1: Personal Finance Variance Tracker
 ├── fetch_data.py          – downloads Kaggle dataset, builds budget_input.xlsx
 ├── tracker.py             – reads budget_input.xlsx, computes variance, writes report
 └── README.md              – setup guide
+
+
+How to run the project
+
+1. python fetch_data.py
+2. python tracker.py
