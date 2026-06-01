@@ -1,5 +1,5 @@
 # Expense_tracker
-Python_ EXCEL project
+Python_ EXCEL project  
 finance_tracker/           ← Project: Personal Finance Variance Tracker  
 ├── requirements.txt       – Python libraries to install  
 ├── fetch_data.py          – downloads Kaggle dataset, builds budget_input.xlsx  
